@@ -21,11 +21,12 @@ The following word clouds were generated from the YouTube videos that I collecte
 
 ### Seattle Word Cloud
 
-![](img/wordcloud-1.png)
+![](./img/wordcloud-1.png)
 
 ### Bellevue Word Cloud
 
-![](img/wordcloud-2.png)
+![](./img/wordcloud-2.png)
+
 
 
 
