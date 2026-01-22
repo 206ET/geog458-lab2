@@ -20,10 +20,13 @@ Seattle and Bellevue are geographically close but differ in terms of development
 The following word clouds were generated from the YouTube videos that I collected for each city. In the word cloud it visualized the most frequently occurring terms from the videos related to the housing searches about Seattle & Bellevue.
 
 ### Seattle Word Cloud
+
 ![](img/wordcloud-1.png)
 
 ### Bellevue Word Cloud
+
 ![](img/wordcloud-2.png)
+
 
 
 ## Similarities and Differences
